@@ -1,4 +1,4 @@
-print("PADMASRI-192124165")
+print("Krithik-192111076")
 print(" Minimax algorithm for gaming ")
 import math
 def minimax (curDepth, nodeIndex,
